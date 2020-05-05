@@ -18,7 +18,7 @@ import {
 
 // ICONS
 import SvgIcon from "components/Icon/SvgIcon";
-import horizontalLine from "~/assets/icons/horizontal-line.svg";
+import horizontalLine from "assets/icons/horizontal-line.svg";
 
 const types = Object.values(filterOptions)[2].options;
 const { shareWith, expires, helpTypes } = createPostSettings;

@@ -5,7 +5,7 @@ import { theme } from "constants/theme";
 
 // ICONS
 import SvgIcon from "../Icon/SvgIcon";
-import downArrow from "~/assets/icons/down-arrow.svg";
+import downArrow from "assets/icons/down-arrow.svg";
 
 const { colors, typography } = theme;
 const { display } = typography.font.family;
