@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Button } from "antd-mobile";
-import { theme } from "../../constants/theme";
+import { theme } from "constants/theme";
 
 // ICONS
 import SvgIcon from "../Icon/SvgIcon";
