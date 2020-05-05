@@ -18,11 +18,11 @@ import {
   getCheckedAnswers,
   WizardCheckboxWrapper,
   WizardCheckboxItem,
-} from "../components/StepWizard";
-import { IconButton, SubmitButton, CustomButton } from "../components/Button";
+} from "components/StepWizard";
+import { IconButton, SubmitButton, CustomButton } from "components/Button";
 
 // ICONS
-import SvgIcon from "../components/Icon/SvgIcon";
+import SvgIcon from "components/Icon/SvgIcon";
 import shareMyLocation from "~/assets/icons/share-my-location.svg";
 
 const INITIAL_STATE = {
